@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* Social link
+    1. [LinkedIn Profile Link](https://www.linkedin.com/in/himanshu-somani123)
+    2. [YouTube channel Link](https://www.youtube.com/channel/UC3cjaivjIU7CiKS3WpUMqVA )
